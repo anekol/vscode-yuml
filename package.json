@@ -97,7 +97,7 @@
   },
   "dependencies": {
     "jsdom": "^11.11.0",
-    "yuml-diagram": "github:gregjohnsonsaltaire/yuml-diagram"
+    "yuml-diagram": "github:anekol/yuml-diagram"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.32",
